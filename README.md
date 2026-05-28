@@ -21,12 +21,6 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 - JavaScript Functions
 - Basic UI Design
 
-## 🎯 Future Improvements
-- Add AI mode 🤖
-- Add sound effects 🔊
-- Improve animations ✨
-- Score tracking 🏆
-
 ## 👩‍💻 Author
 Ambika Rawat
 
